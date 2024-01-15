@@ -199,6 +199,14 @@ nav {
   border-radius: 50%;
 }
 
+.card-icon {
+  height: 60px;
+  width: 60px;
+  background-color: #717cff;
+  border-radius: 50%;
+  display: inline-block;
+}
+
 .card-content {
   text-align: left;
   color: rgb(96, 94, 94);
